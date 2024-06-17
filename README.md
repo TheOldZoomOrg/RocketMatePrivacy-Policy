@@ -7,7 +7,7 @@ Welcome to RocketMate (the "Bot"). By using the Bot, you agree to be bound by th
 
 **2. Description of the Bot**
 RocketMate offers two custom commands: 
-- **anime**: Shows pictures of anime girls.
+- **anime**: Shows pictures of random anime depending on the choice.
 - **dad joke**: Provides random dad jokes.
 
 **3. Use of the Bot**
